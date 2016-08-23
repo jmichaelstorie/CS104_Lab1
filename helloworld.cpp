@@ -1,6 +1,5 @@
 #include <iostream>
 
-main(int argc, char* argv[])
-{
-	cout << "Hello World!";
+int main() {
+        std::cout << "HelloWorld!" << std::endl;
 }
